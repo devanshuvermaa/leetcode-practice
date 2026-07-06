@@ -20,15 +20,18 @@ public:
     }
 
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-        vector<int> res;
         vector<int> ans=helper(nums2);
-        for( int i=0 ; i<nums1.size(); i++){
-            for( int j=0 ; j<nums2.size(); j++){
-                if(nums1[i] == nums2[j]){
-                    res.push_back(ans[j]);
-                }
-            }
+
+        unordered_map<int,int> map;
+        for(int i=0;i<nums2.size();i++){
+            map[nums2[i]] = ans[i];
         }
+        
+        vector<int> res;
+        for(int i=0;i<nums1.size();i++){
+            res.push_back(map[nums1[i]]);
+        }
+        
         return res;
     }
 };
