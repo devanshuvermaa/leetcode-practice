@@ -21,6 +21,7 @@
 | [0155-min-stack](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0735-asteroid-collision) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0402-remove-k-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0907-sum-of-subarray-minimums) |
@@ -54,4 +57,8 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0735-asteroid-collision) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
