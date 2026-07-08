@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0455-assign-cookies](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0735-asteroid-collision) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0455-assign-cookies) |
 ## Math
 |  |
 | ------- |
@@ -70,4 +72,12 @@
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
