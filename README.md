@@ -13,6 +13,7 @@
 | [0735-asteroid-collision](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0907-sum-of-subarray-minimums) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0496-next-greater-element-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -88,4 +90,16 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0455-assign-cookies) |
+## Binary Search
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
