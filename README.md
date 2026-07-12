@@ -16,6 +16,7 @@
 | [0735-asteroid-collision](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0907-sum-of-subarray-minimums) |
+| [1331-rank-transform-of-an-array](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0496-next-greater-element-i) |
+| [1331-rank-transform-of-an-array](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Monotonic Stack
 |  |
@@ -101,6 +103,7 @@
 | [0056-merge-intervals](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0455-assign-cookies) |
+| [1331-rank-transform-of-an-array](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
