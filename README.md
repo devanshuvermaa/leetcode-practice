@@ -126,6 +126,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -135,8 +136,10 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/devanshuvermaa/leetcode-practice/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
