@@ -156,4 +156,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0572-subtree-of-another-tree) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
