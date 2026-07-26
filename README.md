@@ -18,6 +18,7 @@
 | [0860-lemonade-change](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1331-rank-transform-of-an-array](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1331-rank-transform-of-an-array) |
+| [1584-min-cost-to-connect-all-points](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -121,12 +122,14 @@
 ## Union-Find
 |  |
 | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [2685-count-the-number-of-complete-components](https://github.com/devanshuvermaa/leetcode-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0207-course-schedule) |
+| [1584-min-cost-to-connect-all-points](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [2685-count-the-number-of-complete-components](https://github.com/devanshuvermaa/leetcode-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -193,4 +196,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0207-course-schedule) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
