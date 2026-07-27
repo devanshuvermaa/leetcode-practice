@@ -132,6 +132,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0802-find-eventual-safe-states) |
 | [1584-min-cost-to-connect-all-points](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [2685-count-the-number-of-complete-components](https://github.com/devanshuvermaa/leetcode-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -156,6 +157,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0994-rotting-oranges) |
 | [2685-count-the-number-of-complete-components](https://github.com/devanshuvermaa/leetcode-practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -176,6 +178,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0572-subtree-of-another-tree) |
+| [0802-find-eventual-safe-states](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0802-find-eventual-safe-states) |
 | [2685-count-the-number-of-complete-components](https://github.com/devanshuvermaa/leetcode-practice/tree/master/2685-count-the-number-of-complete-components) |
 ## String Matching
 |  |
@@ -202,6 +205,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0802-find-eventual-safe-states) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
