@@ -1,13 +1,30 @@
 class Solution {
 public:
+    vector<int> par;
+    vector<int> rank;
+    int find(int node) {
+        if (par[node] == node) {
+            return node;
+        }
 
-    void dfs(int src,vector<bool> &vis,vector<vector<int>>& adj){
-        vis[src] = true;
+        return par[node] = find(par[node]);
+    }
 
-        for(auto nextnode : adj[src]){
-            if(!vis[nextnode]){
-                    dfs(nextnode,vis,adj);
-            }
+    void unionbyrank(int u, int v) {
+        int paru = find(u);
+        int parv = find(v);
+
+        if (paru == parv) {
+            return;
+        }
+
+        if (rank[paru] < rank[parv]) {
+            par[paru] = parv;
+        }else if(rank[paru] > rank[parv]){
+            par[parv] = paru;
+        }else{
+            par[parv] = paru;
+            rank[paru]++;
         }
     }
 
@@ -15,18 +32,25 @@ public:
         if(connections.size() < n-1){
             return -1;
         }
-        vector<vector<int>> adj(n);
-        for(auto it : connections){
-            adj[it[0]].push_back(it[1]);
-            adj[it[1]].push_back(it[0]);
+        par.resize(n);
+        rank.resize(n);
+
+        for(int i=0;i<n;i++){
+            par[i] = i;
+            rank[i] = 1;
+        }
+
+        for(auto it:connections){
+            int u = it[0];
+            int v = it[1];
+
+            if(find(u) != find(v)){
+                unionbyrank(u,v);
+            }
         }
         int count=0;
-        vector<bool> vis(n,false);
         for(int i=0;i<n;i++){
-            if(!vis[i]){
-                dfs(i,vis,adj);
-                count++;
-            }
+            if(par[i] == i) count++;
         }
         return count-1;
     }
