@@ -133,6 +133,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0200-number-of-islands) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/devanshuvermaa/leetcode-practice/tree/master/2685-count-the-number-of-complete-components) |
@@ -142,6 +143,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0802-find-eventual-safe-states) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -171,6 +173,7 @@
 | [0802-find-eventual-safe-states](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/devanshuvermaa/leetcode-practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -192,6 +195,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 | [0802-find-eventual-safe-states](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0802-find-eventual-safe-states) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/devanshuvermaa/leetcode-practice/tree/master/2685-count-the-number-of-complete-components) |
 ## String Matching
