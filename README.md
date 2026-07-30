@@ -17,6 +17,7 @@
 | [0503-next-greater-element-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0994-rotting-oranges) |
@@ -36,6 +37,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
+| [0746-min-cost-climbing-stairs](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
