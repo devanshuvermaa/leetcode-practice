@@ -22,6 +22,7 @@
 | [0735-asteroid-collision](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -44,6 +45,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [0746-min-cost-climbing-stairs](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -113,6 +115,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -274,4 +277,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0070-climbing-stairs) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
