@@ -22,6 +22,7 @@
 | [0455-assign-cookies](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0746-min-cost-climbing-stairs) |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1331-rank-transform-of-an-array](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1331-rank-transform-of-an-array) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -144,6 +146,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
