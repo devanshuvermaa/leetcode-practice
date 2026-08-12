@@ -97,6 +97,7 @@
 | [0402-remove-k-digits](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0583-delete-operation-for-two-strings) |
+| [0796-rotate-string](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -254,6 +255,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
