@@ -78,6 +78,7 @@
 | [0503-next-greater-element-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0907-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [0402-remove-k-digits](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0583-delete-operation-for-two-strings) |
+| [1021-remove-outermost-parentheses](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -332,4 +334,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0229-majority-element-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
