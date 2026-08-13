@@ -1,33 +1,26 @@
 class Solution {
 public:
 
-    void helper(int idx,int target,vector<int> &nums,vector<vector<int>> &ans, vector<int> &temp,int k){
+    void helper(int num,int target,vector<vector<int>> &ans, vector<int> &temp,int k){
         if(target == 0 && k==0){
             ans.push_back(temp);
             return;
         }
-        if(k==0){
+        if(k==0 || num>9 || num>target){
             return;
         }
-        if(idx == nums.size()){
-            return;
-        }
-        if(nums[idx]>target){
-            return;
-        }
-
-        temp.push_back(nums[idx]);
-        helper(idx+1,target-nums[idx],nums,ans,temp,k-1);
+        
+        temp.push_back(num);
+        helper(num+1,target-num,ans,temp,k-1);
         temp.pop_back();
 
-        helper(idx+1,target,nums,ans,temp,k);
+        helper(num+1,target,ans,temp,k);
     }
 
     vector<vector<int>> combinationSum3(int k, int n) {
-        vector<int> nums = {1,2,3,4,5,6,7,8,9};
         vector<vector<int>> ans;
         vector<int> temp;
-        helper(0,n,nums,ans,temp,k);
+        helper(1,n,ans,temp,k);
 
         return ans;
     }
