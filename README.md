@@ -10,6 +10,7 @@
 | [0055-jump-game](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0057-insert-interval) |
+| [0079-word-search](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
@@ -247,6 +249,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -295,6 +298,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -331,6 +335,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0216-combination-sum-iii) |
