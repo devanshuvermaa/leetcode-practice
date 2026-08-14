@@ -53,6 +53,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0020-valid-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0583-delete-operation-for-two-strings) |
@@ -330,6 +332,7 @@
 | [0039-combination-sum](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0216-combination-sum-iii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Longest Common Subsequence
