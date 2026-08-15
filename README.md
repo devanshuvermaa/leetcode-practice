@@ -11,6 +11,7 @@
 | [0056-merge-intervals](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -180,6 +181,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
 | [1631-path-with-minimum-effort](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1631-path-with-minimum-effort) |
