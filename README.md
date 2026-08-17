@@ -103,6 +103,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0131-palindrome-partitioning) |
@@ -121,6 +122,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0229-majority-element-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0496-next-greater-element-i) |
@@ -155,6 +157,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0877-stone-game) |
