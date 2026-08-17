@@ -88,6 +88,7 @@
 | [0735-asteroid-collision](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -368,6 +370,7 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bucket Sort
 |  |
 | ------- |
