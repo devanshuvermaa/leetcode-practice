@@ -180,6 +180,7 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0455-assign-cookies) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -187,6 +188,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
@@ -389,6 +391,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0328-odd-even-linked-list) |
@@ -402,4 +405,12 @@
 | [0021-merge-two-sorted-lists](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0234-palindrome-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
