@@ -241,6 +241,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -263,6 +264,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -272,6 +274,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0079-word-search) |
+| [0110-balanced-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
