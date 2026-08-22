@@ -249,6 +249,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -257,6 +258,7 @@
 | [0200-number-of-islands](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0322-coin-change) |
+| [0662-maximum-width-of-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0802-find-eventual-safe-states](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0994-rotting-oranges) |
@@ -274,6 +276,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -286,6 +289,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0802-find-eventual-safe-states](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
