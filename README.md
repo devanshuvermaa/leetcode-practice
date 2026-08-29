@@ -113,6 +113,7 @@
 | [0013-roman-to-integer](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
@@ -131,6 +132,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
@@ -268,6 +270,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0127-word-ladder](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0207-course-schedule) |
@@ -463,4 +466,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
