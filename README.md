@@ -36,6 +36,7 @@
 | [0503-next-greater-element-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0721-accounts-merge](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0860-lemonade-change) |
@@ -119,6 +120,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0583-delete-operation-for-two-strings) |
+| [0721-accounts-merge](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1092-shortest-common-supersequence) |
@@ -139,6 +141,7 @@
 | [0496-next-greater-element-i](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1331-rank-transform-of-an-array) |
@@ -204,6 +207,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0721-accounts-merge](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -224,6 +228,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0200-number-of-islands) |
+| [0721-accounts-merge](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1584-min-cost-to-connect-all-points) |
@@ -277,6 +282,7 @@
 | [0322-coin-change](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0721-accounts-merge) |
 | [0802-find-eventual-safe-states](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0994-rotting-oranges) |
@@ -316,6 +322,7 @@
 | [0572-subtree-of-another-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0721-accounts-merge) |
 | [0802-find-eventual-safe-states](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
