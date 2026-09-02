@@ -1,15 +1,25 @@
 class Solution {
 public:
-    int rob(vector<int>& nums) {
-        int prev2=0;
-        int prev1=0;
+    int helper(int n, int picked,vector<int>& nums, vector<vector<int>> &dp) {
+        if (n < 0)
+            return 0;
 
-        for(int num:nums){
-            int curr = max(num+prev2,prev1);
-
-            prev2=prev1;
-            prev1=curr;
+        if(dp[n][picked] != -1){
+            return dp[n][picked];
         }
-        return prev1;
+
+        int notpick = helper(n-1,0,nums,dp);
+        int pick = -1e9;
+
+        if (picked == 0) {
+            pick = nums[n] + helper(n - 1, 1,nums,dp);
+        }
+        return dp[n][picked] = max(pick,notpick);
+    }
+
+    int rob(vector<int>& nums) {
+        int n = nums.size();
+        vector<vector<int>> dp(n,vector<int>(2,-1));
+        return helper(n-1,0,nums,dp);
     }
 };
