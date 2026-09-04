@@ -5,10 +5,8 @@ public:
         if(target == 0){
             return 0;
         }
-        if(idx == 0){
-            if(target%coins[0] == 0){
-                return target/coins[0];
-            }
+        if(idx < 0){
+            
             return 1e9;
         }
         if(dp[idx][target]!=-1){
