@@ -76,6 +76,7 @@
 | [0877-stone-game](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1092-shortest-common-supersequence](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1092-shortest-common-supersequence) |
+| [1143-longest-common-subsequence](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -124,6 +125,7 @@
 | [0796-rotate-string](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1092-shortest-common-supersequence) |
+| [1143-longest-common-subsequence](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -419,6 +421,7 @@
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1092-shortest-common-supersequence) |
+| [1143-longest-common-subsequence](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1143-longest-common-subsequence) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
