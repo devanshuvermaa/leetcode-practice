@@ -58,6 +58,7 @@
 | [0045-jump-game-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0120-triangle) |
@@ -115,6 +116,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0127-word-ladder) |
