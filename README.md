@@ -495,6 +495,7 @@
 ## Database
 |  |
 | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0584-find-customer-referee) |
 | [1148-article-views-i](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1280-students-and-examinations) |
