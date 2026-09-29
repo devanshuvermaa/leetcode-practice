@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0045-jump-game-ii) |
@@ -198,6 +199,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0015-3sum) |
 | [0142-linked-list-cycle-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -208,6 +210,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0229-majority-element-ii) |
