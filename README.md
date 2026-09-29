@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0040-combination-sum-ii) |
@@ -169,6 +170,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -199,6 +201,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0015-3sum) |
 | [0142-linked-list-cycle-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0148-sort-list) |
