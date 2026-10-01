@@ -45,6 +45,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -153,6 +154,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0721-accounts-merge) |
+| [0904-fruit-into-baskets](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1331-rank-transform-of-an-array) |
@@ -521,5 +523,6 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
