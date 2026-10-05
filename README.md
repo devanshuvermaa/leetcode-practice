@@ -9,6 +9,7 @@
 | [0039-combination-sum](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0057-insert-interval) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0072-edit-distance) |
@@ -482,6 +484,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0148-sort-list) |
