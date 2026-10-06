@@ -63,6 +63,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0055-jump-game) |
@@ -124,6 +125,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0072-edit-distance) |
@@ -213,6 +215,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0015-3sum) |
 | [0142-linked-list-cycle-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
@@ -533,4 +536,8 @@
 | [0713-subarray-product-less-than-k](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
