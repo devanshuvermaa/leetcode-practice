@@ -25,7 +25,7 @@ public:
                     left = mid+1;
                 }
             }else{//right sorted
-                if(nums[mid] < target && nums[right] >= target){
+                if(nums[mid] <= target && nums[right] >= target){
                     left = mid+1;
                     
                 }else{
