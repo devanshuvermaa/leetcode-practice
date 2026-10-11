@@ -25,6 +25,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0130-surrounded-regions) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
@@ -210,6 +212,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0227-basic-calculator-ii) |
