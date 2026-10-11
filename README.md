@@ -106,6 +106,7 @@
 | [0020-valid-parentheses](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0232-implement-queue-using-stacks) |
@@ -140,6 +141,7 @@
 | [0115-distinct-subsequences](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0131-palindrome-partitioning) |
+| [0224-basic-calculator](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
@@ -209,6 +211,7 @@
 | [0013-roman-to-integer](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0227-basic-calculator-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0877-stone-game) |
@@ -506,6 +509,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
