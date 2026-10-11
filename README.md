@@ -117,6 +117,7 @@
 | [0496-next-greater-element-i](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -153,6 +154,7 @@
 | [0680-valid-palindrome-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1143-longest-common-subsequence) |
@@ -192,6 +194,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
@@ -247,6 +250,7 @@
 | [0647-palindromic-substrings](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0844-backspace-string-compare) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
