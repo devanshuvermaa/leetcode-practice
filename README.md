@@ -45,6 +45,7 @@
 | [0503-next-greater-element-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0641-design-circular-deque](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0641-design-circular-deque) |
 | [0713-subarray-product-less-than-k](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0735-asteroid-collision) |
@@ -127,11 +128,13 @@
 | [0155-min-stack](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0232-implement-queue-using-stacks) |
+| [0641-design-circular-deque](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0641-design-circular-deque) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0232-implement-queue-using-stacks) |
+| [0641-design-circular-deque](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0641-design-circular-deque) |
 ## String
 |  |
 | ------- |
@@ -507,6 +510,7 @@
 | [0206-reverse-linked-list](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0328-odd-even-linked-list) |
+| [0641-design-circular-deque](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0641-design-circular-deque) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
