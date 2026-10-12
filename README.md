@@ -62,6 +62,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1901-find-a-peak-element-ii) |
+| [2073-time-needed-to-buy-tickets](https://github.com/devanshuvermaa/leetcode-practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -135,6 +136,7 @@
 | [0225-implement-stack-using-queues](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0641-design-circular-deque](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0641-design-circular-deque) |
+| [2073-time-needed-to-buy-tickets](https://github.com/devanshuvermaa/leetcode-practice/tree/master/2073-time-needed-to-buy-tickets) |
 ## String
 |  |
 | ------- |
@@ -198,6 +200,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0844-backspace-string-compare) |
+| [2073-time-needed-to-buy-tickets](https://github.com/devanshuvermaa/leetcode-practice/tree/master/2073-time-needed-to-buy-tickets) |
 ## Greedy
 |  |
 | ------- |
