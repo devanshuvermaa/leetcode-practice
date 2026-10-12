@@ -61,6 +61,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1584-min-cost-to-connect-all-points](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1631-path-with-minimum-effort) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1901-find-a-peak-element-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1901-find-a-peak-element-ii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/devanshuvermaa/leetcode-practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -136,6 +137,7 @@
 | [0225-implement-stack-using-queues](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0641-design-circular-deque](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0641-design-circular-deque) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/devanshuvermaa/leetcode-practice/tree/master/2073-time-needed-to-buy-tickets) |
 ## String
 |  |
@@ -200,6 +202,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0844-backspace-string-compare) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/devanshuvermaa/leetcode-practice/tree/master/2073-time-needed-to-buy-tickets) |
 ## Greedy
 |  |
@@ -227,6 +230,7 @@
 | [0227-basic-calculator-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0227-basic-calculator-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0877-stone-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -525,6 +529,7 @@
 | [0206-reverse-linked-list](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0234-palindrome-linked-list) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/devanshuvermaa/leetcode-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
 | ------- |
