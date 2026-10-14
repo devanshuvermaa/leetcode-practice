@@ -179,6 +179,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0496-next-greater-element-i) |
@@ -254,6 +255,7 @@
 | [0015-3sum](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0015-3sum) |
 | [0142-linked-list-cycle-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0234-palindrome-linked-list) |
@@ -517,6 +519,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0328-odd-even-linked-list) |
