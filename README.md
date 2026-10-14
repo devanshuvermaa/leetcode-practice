@@ -178,6 +178,7 @@
 | [0013-roman-to-integer](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0127-word-ladder) |
+| [0141-linked-list-cycle](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0229-majority-element-ii) |
@@ -253,6 +254,7 @@
 | [0005-longest-palindromic-substring](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0015-3sum) |
+| [0141-linked-list-cycle](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -517,6 +519,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -527,6 +530,7 @@
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/devanshuvermaa/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 ## Recursion
 |  |
