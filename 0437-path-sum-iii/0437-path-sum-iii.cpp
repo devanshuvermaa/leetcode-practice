@@ -12,27 +12,25 @@
 class Solution {
 public:
 
-    void helper(TreeNode* root, int target, long long sum, int &count){
+    void helper(TreeNode* root, int target, long long currsum, int &count,unordered_map<long long,int> &prefixsum){
         if(root == NULL) return;
 
-        sum += root->val;
-        if(sum == target) count++;
-
-        helper(root->left,target,sum,count);
-        helper(root->right,target,sum,count);
-    }
-    void dfs(TreeNode* root, int target, int &count){
-        if(root == NULL){
-            return;
+        currsum += root->val;
+        if(prefixsum.count(currsum-target)){
+            count += prefixsum[currsum-target];
         }
-        helper(root,target,0,count);
-        dfs(root->left,target,count);
-        dfs(root->right,target,count);
+        prefixsum[currsum]++;
+        helper(root->left,target,currsum,count,prefixsum);
+        helper(root->right,target,currsum,count,prefixsum);
+
+        prefixsum[currsum]--;
     }
 
     int pathSum(TreeNode* root, int targetSum) {
+        unordered_map<long long,int> prefixsum;
+        prefixsum[0]=1;
         int count = 0;
-        dfs(root,targetSum,count);
+        helper(root,targetSum,0,count,prefixsum);
         return count;
     }
 };
