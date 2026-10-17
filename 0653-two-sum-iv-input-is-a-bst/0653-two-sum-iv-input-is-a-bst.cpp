@@ -10,56 +10,61 @@
  * right(right) {}
  * };
  */
-class BSTIterator {
-    stack<TreeNode*> s;
-    bool isreverse;
-    void pushall(TreeNode* root) {
-        while (root != NULL) {
-            s.push(root);
-            if (isreverse) {
-                root = root->right;
-            } else {
-                root = root->left;
-            }
+
+class BSTiterator {
+    stack<TreeNode*> st;
+    bool reverse;
+    void pushpath(TreeNode* root) {
+        while (root) {
+            st.push(root);
+            root = reverse ? root->right : root->left;
         }
     }
 
 public:
-    BSTIterator(TreeNode* root, bool reverse) {
-        isreverse = reverse;
-        pushall(root);
+    BSTiterator(TreeNode* root, bool reverse) {
+        this->reverse = reverse;
+        pushpath(root);
     }
+
+    bool hasnext() { return !st.empty(); }
 
     int next() {
-        TreeNode* curr = s.top();
-        s.pop();
+        TreeNode* root = st.top();
+        st.pop();
 
-        if (isreverse) {
-            pushall(curr->left);
+        if (reverse) {
+            if (root->left)
+                pushpath(root->left);
         } else {
-            pushall(curr->right);
+            if (root->right)
+                pushpath(root->right);
         }
 
-        return curr->val;
+        return root->val;
     }
 };
-
 class Solution {
 public:
     bool findTarget(TreeNode* root, int k) {
-        BSTIterator l(root, false);
-        BSTIterator r(root, true);
+        BSTiterator left(root, false);
+        BSTiterator right(root, true);
 
-        int i = l.next();
-        int j = r.next();
+        int l = left.next();
+        int r = right.next();
 
-        while (i < j) {
-            if (i + j == k)
+        while (l < r) {
+            if (l + r == k)
                 return true;
-            if (i + j < k) {
-                i = l.next();
-            } else {
-                j = r.next();
+            if (l + r > k) {
+                if (right.hasnext()) {
+                    r = right.next();
+                }
+            }
+            else if (l + r < k) {
+                if (left.hasnext()) {
+                    l = left.next();
+                }
             }
         }
         return false;
