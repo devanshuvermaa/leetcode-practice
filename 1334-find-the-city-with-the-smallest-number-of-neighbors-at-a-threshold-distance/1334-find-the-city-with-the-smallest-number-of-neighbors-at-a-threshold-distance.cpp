@@ -1,46 +1,45 @@
 class Solution {
 public:
     int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
-        vector<vector<int>> grid(n,vector<int>(n,1e9));
+        vector<vector<int>> dist(n, vector<int>(n, 1e9));
 
-        for(int i=0;i<n;i++){
-            grid[i][i] = 0;
+        for (int i = 0; i < n; i++) {
+            dist[i][i] = 0;
+        }
+        for (auto e : edges) {
+            int u = e[0];
+            int v = e[1];
+            int wt = e[2];
+
+            dist[u][v] = wt;
+            dist[v][u] = wt;
         }
 
-        for(auto &it:edges){
-            grid[it[0]][it[1]] = it[2];
-            grid[it[1]][it[0]] = it[2];
-        }
-
-        for(int k=0; k<n; k++){
-            for(int i =0; i<n; i++){
-                for(int j=0; j<n; j++){
-                    
-                    if(grid[i][k]!=1e9 && grid[k][j]!=1e9){
-                        if(grid[i][j] > grid[i][k] + grid[k][j]){
-                            grid[i][j] = grid[i][k] + grid[k][j];
+        for (int k = 0; k < n; k++) {
+            for (int i = 0; i < n; i++) {
+                for (int j = 0; j < n; j++) {
+                    if (dist[i][k] != 1e9 && dist[k][j] != 1e9) {
+                        if (dist[i][j] > dist[i][k] + dist[k][j]) {
+                            dist[i][j] = dist[i][k] + dist[k][j];
                         }
                     }
                 }
             }
         }
 
-        int min_count = n;
-        int cityno = 0;
-
-        for(int i=0;i<n;i++){
-            int count=0;
-            for(int j=0;j<n;j++){
-                if(grid[i][j] <= distanceThreshold){
+        int smallestcount = 1e9;
+        int city = -1;
+        for (int i = 0; i < n; i++) {
+            int count = 0;
+            for (int j = 0; j < n; j++) {
+                if ((dist[i][j] <= distanceThreshold) && i != j)
                     count++;
-                }
             }
-            if(count<=min_count){
-                min_count = count;
-                cityno = i;
+            if (count <= smallestcount) {
+                smallestcount = count;
+                city = i;
             }
         }
-
-        return cityno;
+        return city;
     }
 };
