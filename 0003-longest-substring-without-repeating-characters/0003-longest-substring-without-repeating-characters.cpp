@@ -1,23 +1,21 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        int n = s.size();
-        // vector<int> freq(26,0);
         unordered_map<char,int> mp;
-        int ans = 0;
 
         int left = 0;
-        for(int right=0;right<n;right++){
-            mp[s[right]]++;
+        int maxi = 0;
 
-            while(mp[s[right]] > 1){
+        for(int i=0;i<s.size();i++){
+            mp[s[i]]++;
+
+            while(mp[s[i]] > 1){
                 mp[s[left]]--;
                 left++;
             }
 
-            ans = max(ans,right-left+1);
-
+            maxi = max(maxi,i-left+1);
         }
-        return ans;
+        return maxi;
     }
 };
